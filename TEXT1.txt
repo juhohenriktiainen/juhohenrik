@@ -1,1 +1,3 @@
 Tässä on tekstitiedosto.
+
+Lisäsin TEXT2 tiedoston.
